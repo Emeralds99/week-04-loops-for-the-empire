@@ -1,6 +1,6 @@
 function spotEachRebel(rebels) {
   let spottedRebelCalls = []
-
+  //Changing to test github pull requests
   if (rebels) {
     spottedRebelCalls.push('Look! Rebel scum!')
   }
